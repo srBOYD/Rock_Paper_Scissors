@@ -1,1 +1,2 @@
-# Rock_Paper_Scissors
+# Rock_Paper_Scissors 
+My first project using javascript! 
